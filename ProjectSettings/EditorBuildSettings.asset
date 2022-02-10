@@ -4,5 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ModernOffice_3.unity
+    guid: 41be5acded05f1449a5524b24c291bd6
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 313c1c759f86b814b89d6c082b9fcf5b, type: 2}
