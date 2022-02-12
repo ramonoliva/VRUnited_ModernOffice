@@ -58,7 +58,7 @@ MonoBehaviour:
       - m_Id: f33dd3661d82aca40943a873a0b81734
         m_Value: ServerData/[BuildTarget]
       - m_Id: bbdcaba3212f53d4387dc08fdd486880
-        m_Value: '{VRUnited.ModernOffice.CatalogSettings.URL}'
+        m_Value: '{QuickVR.QuickCatalogSettings.URL}'
     m_ProfileEntryNames:
     - m_Id: 4f98b9245c6ffcb46bd717654208bc1a
       m_Name: BuildTarget
