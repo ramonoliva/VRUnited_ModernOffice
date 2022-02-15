@@ -21,6 +21,10 @@ MonoBehaviour:
     m_Address: ModernOffice
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 42800160c1926cb4397253f9d6ef5793
+    m_Address: SceneSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2f2055551c64a0444a0eba72fe29c19c, type: 2}
   m_SchemaSet:
