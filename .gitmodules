@@ -1,0 +1,3 @@
+[submodule "Assets/VRUnited_SDK"]
+	path = Assets/VRUnited_SDK
+	url = https://github.com/eventlab-projects/VRUnited_SDK.git
