@@ -15,3 +15,8 @@ MonoBehaviour:
   _address: ModernOffice
   _displayName: Modern Office
   _thumbnail: {fileID: 2800000, guid: 3fd6da48ebb48f746b61e0224207afc3, type: 3}
+  _scene:
+    m_AssetGUID: 41be5acded05f1449a5524b24c291bd6
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
