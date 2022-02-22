@@ -153,6 +153,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.VRUnited_ModernOffice
     Standalone: com.DefaultCompany.VRUnitedModernOffice
   buildNumber:
     Standalone: 0
