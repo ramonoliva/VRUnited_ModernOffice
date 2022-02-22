@@ -79,6 +79,7 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - VRUSceneSettings
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: bed90bfc62e7b40429a56186b2613343, type: 2}
