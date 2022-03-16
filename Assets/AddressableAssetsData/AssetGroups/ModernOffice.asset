@@ -21,11 +21,20 @@ MonoBehaviour:
     m_Address: ModernOffice
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 42800160c1926cb4397253f9d6ef5793
-    m_Address: SceneSettings
+  - m_GUID: 148346c7bf35dfc4f997837cdad4fa14
+    m_Address: Assets/Scenes/SceneSettings.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - VRUSceneSettings
+  - m_GUID: 44d274caf2c8238448c65214676bacb7
+    m_Address: Assets/Scenes/SceneSettings - experiment.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUSceneSettings
+  - m_GUID: dfc0c6277916c46418ecc6c299716bfa
+    m_Address: Assets/Scenes/ExperimentScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2f2055551c64a0444a0eba72fe29c19c, type: 2}
   m_SchemaSet:

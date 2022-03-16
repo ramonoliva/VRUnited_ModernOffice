@@ -8,5 +8,8 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ModernOffice_3.unity
     guid: 41be5acded05f1449a5524b24c291bd6
+  - enabled: 0
+    path: Assets/Scenes/ExperimentScene.unity
+    guid: dfc0c6277916c46418ecc6c299716bfa
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 313c1c759f86b814b89d6c082b9fcf5b, type: 2}
