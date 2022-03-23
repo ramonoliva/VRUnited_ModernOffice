@@ -1,3 +1,6 @@
 [submodule "Packages/com.vrunited.sdk"]
 	path = Packages/com.vrunited.sdk
 	url = https://github.com/eventlab-projects/VRUnited_SDK.git
+[submodule "Packages/com.quickvr.quicklod"]
+	path = Packages/com.quickvr.quicklod
+	url = https://github.com/eventlab-projects/com.quickvr.quicklod.git

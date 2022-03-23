@@ -17,15 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 5680c2d75ca05674a8ba0af12926e789
   m_SerializeEntries:
-  - m_GUID: 41be5acded05f1449a5524b24c291bd6
-    m_Address: ModernOffice
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 148346c7bf35dfc4f997837cdad4fa14
-    m_Address: Assets/Scenes/SceneSettings.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - VRUSceneSettings
   - m_GUID: 44d274caf2c8238448c65214676bacb7
     m_Address: Assets/Scenes/SceneSettings - experiment.asset
     m_ReadOnly: 0
