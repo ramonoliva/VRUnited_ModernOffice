@@ -26,6 +26,46 @@ MonoBehaviour:
     m_Address: Assets/Scenes/ExperimentScene.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 5fdb64605faeb7547900f7d419fad6e0
+    m_Address: 485881
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUAvatar
+  - m_GUID: 9cf73ab5e84ae74419d8a999d759408e
+    m_Address: 642380
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUAvatar
+  - m_GUID: 988fe9ee31d477049996cef2221723c7
+    m_Address: 741728
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUAvatar
+  - m_GUID: b3f43d7236da2534788c88fecda7c45b
+    m_Address: 814710
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUAvatar
+  - m_GUID: 6a98962b4a42b6f48ba881e3dd84373d
+    m_Address: 783488
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUAvatar
+  - m_GUID: 228678e237161b04b950668c271fa069
+    m_Address: 013422
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUAvatar
+  - m_GUID: 33ce4791fd95a7d4db35ac9eb46d28b2
+    m_Address: 182254
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUAvatar
+  - m_GUID: 72002343a1d8fca4eb2359a56728f1a4
+    m_Address: 033736
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - VRUAvatar
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2f2055551c64a0444a0eba72fe29c19c, type: 2}
   m_SchemaSet:
